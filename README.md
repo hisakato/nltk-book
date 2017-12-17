@@ -1,2 +1,2 @@
 # nltk-book
-Working on NLTK book examples with Jupiter Python 3 notebooks
+Working on the NLTK book examples (nltk.org/book) with Jupyter Python 3 notebooks
